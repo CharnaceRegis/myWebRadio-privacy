@@ -1,8 +1,8 @@
-# Politique de confidentialité — Neon Radio
+# Politique de confidentialité — Néon Webradio
 
 **Dernière mise à jour : 15 octobre 2026**
 
-Cette politique décrit comment l'application **Neon Radio** (« nous », « l'application ») traite les données lorsque vous l'utilisez.
+Cette politique décrit comment l'application **Néon Webradio** (« nous », « l'application ») traite les données lorsque vous l'utilisez.
 
 ## En résumé
 
@@ -59,11 +59,11 @@ Toute modification sera publiée sur cette page avec une nouvelle date de mise �
 
 ---
 
-# Privacy Policy — Neon Radio
+# Privacy Policy — Néon Webradio
 
 **Last updated: October 15, 2026**
 
-This policy describes how the **Neon Radio** app ("we", "the app") handles data when you use it.
+This policy describes how the **Néon Webradio** app ("we", "the app") handles data when you use it.
 
 ## TL;DR
 

@@ -1,3 +1,3 @@
 # myWebRadio-privacy
 
-Politique de confidentialité de Neon Radio, publiée par GitHub Pages.
+Politique de confidentialité de Néon Webradio, publiée par GitHub Pages.
